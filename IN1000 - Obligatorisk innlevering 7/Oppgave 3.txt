@@ -1,0 +1,6 @@
+## Oppgave 3: Teorispørsmål
+a) Se tegning.png
+
+b) En "liste" er egnet i denne situasjonen siden vi ønsker å lagre en samling av verdier/objekter der hver verdi/objekt er av samme type. Vi kunne vurdert å ta i bruk en ordbok, men siden det ikke er en fullstendig klar assosiasjon mellom en nøkkel og en verdi i denne situasjonen (tittel kunne fungert dog), så valgte vi en liste. Rekkefølgen av elementene har dessuten også noe å si i denne situasjoen ettersom spillelister spilles av fra start til slutt (ala Spotify). Ordbøker har ikke en start-slutt-ordning der man kan stole på at rekkefølgen på verdiene inni ordboken alltid er den samme (kontra listene).
+
+c) Fordelen er at man iblant ønsker å lage en spilleliste, men ikke basert på en txt.-fil. Da vil man isteden kanskje ha en metode som heter lesFraListe() eller lesFraOrbok() og da passer det bedre å ikke ha filnavnet i konstruktøren. Hvis man må forsyne dannelsen av en spilleliste-klasse en txt-fil hver gang man lager en spilleliste så hadde det komplisert ting unødvendig.

@@ -1,0 +1,8 @@
+## Oppgave 2: Teorioppgave
+1) Innkapsling er en programmeringsteknikk som har som formål å hindre direkte tilgang til egenskapene til et objekt fra andre objekter. Man ønsker altså å hindre tilgang til både egenskaper og metoder inni objektet. Dette er nyttig fordi det hindrer at andre funksjoner og deler av programmet kan tukle med egenskaper inni objektet uten at det eksplisitt ønskes (i alle fall i python, python har ikke mekanismer som hindrer tilgang).
+
+2)
+Grensesnitt er de sett med metoder og tjenester et objekt kan tilby. Dette grensesnitten vil ofte kunne tilby metoder som leser, endrer og aktiveterer objektet som tas i bruk. Hvilke metoder og tjenester et objekt innehar vil bestemmes av objektets klasse. Implementasjon til et objekt vil si hvordan grensesnittet er implementert, altså hvordan det er satt sammen og tilbyr de tjenestene som grensesnittet tilbyr.
+
+3)
+Instansmetoder er funksjoner/prosedyrer som kun er tilgjengelig gjennom et objekt. Funksjoner trenger ikke kalles via et objekt.

@@ -1,0 +1,2 @@
+1a) Alt gikk greit, å lese fra txt-filer kan være noe vanskelig hvis det er mye "parsing"/før-arbeid som må gjøres først.
+1b) Jeg brukte ish 3-4-timer. Det er primært egen-oppgave som tar lengst tid. Jeg fikk til alle oppgavene.
